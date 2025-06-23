@@ -1,8 +1,9 @@
-# AI SaaS Platform: Empowering Businesses with Intelligent Solutions
+
+**Live Demo**: [https://ai-saas-platform-rosy.vercel.app/](https://ai-saas-platform-rosy.vercel.app/)
 
 ## A Showcase of Full-Stack AI Development Excellence
 
-This project represents a substantial leap into the world of Artificial Intelligence-driven Software-as-a-Service (SaaS). Developed as a testament to our capabilities, this platform demonstrates the seamless integration of cutting-edge AI models with a robust, scalable, and monetizable web application. As a software development agency, we are proud to showcase this solution, reflecting our expertise in building sophisticated, production-ready AI products for our clients.
+As a software development agency, we are proud to showcase this solution, reflecting our expertise in building sophisticated, production-ready AI SaaS products for our clients.
 
 ## Key Features & AI Capabilities
 
@@ -66,53 +67,3 @@ This AI SaaS platform is more than just a demo; it's a living example of how our
 - **Monetization Strategies**: Implementing secure payment gateways and subscription models to drive revenue
 - **Exceptional User Experience**: Crafting intuitive and visually appealing interfaces that delight users
 - **Rapid Prototyping & Iteration**: Utilizing modern development practices to deliver value quickly and adapt to evolving requirements
-
-## See It In Action!
-
-Experience the power of this AI SaaS platform firsthand.
-
-**Live Demo**: [Insert Live Demo URL Here] *(Replace this with your actual deployed project URL)*
-
-## Getting Started
-
-### Prerequisites
-
-**Node version 18.x.x**
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
-```
-
-2. Install packages:
-```bash
-npm install
-```
-
-3. Setup Prisma:
-```bash
-npx prisma db push
-```
-
-4. Start the development server:
-```bash
-npm run dev
-```
-
-## Available Commands
-
-Running commands with npm `npm run [command]`
-
-| Command | Description |
-| :------ | :---------- |
-| `dev`   | Starts a development instance of the app |
-
-## Ready to Build Your Own AI-Powered Solution?
-
-Whether you're looking to integrate AI into an existing application, develop a new SaaS product from scratch, or need expert guidance on your software development journey, our agency is here to help.
-
-**Contact us today** to discuss your project and discover how we can turn your vision into a reality.
-
-[Your Agency Website/Contact Page Link] *(Replace this with your agency's website or a contact link)*
